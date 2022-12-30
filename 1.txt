@@ -1,4 +1,2 @@
 Hey this is my first code i'll send to my repository
 i.e. Zargham Repo
-This is my second code i;ll commit to Zargha Repo
-(Later i'll retrive this code)
